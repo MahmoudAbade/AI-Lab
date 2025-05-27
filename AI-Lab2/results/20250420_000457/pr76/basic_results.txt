@@ -1,0 +1,4 @@
+Problem: pr76
+Path 1 length: 391210.02
+Path 2 length: 389833.32
+Longer path length (objective): 391210.02

@@ -1,0 +1,5 @@
+Instance: instance_1
+Number of items: 30
+Bin capacity: 100
+Number of bins: 1
+Fitness: 0.800000

@@ -1,0 +1,4 @@
+Problem: kroA100
+Path 1 length: 119993.43
+Path 2 length: 119721.16
+Longer path length (objective): 119993.43

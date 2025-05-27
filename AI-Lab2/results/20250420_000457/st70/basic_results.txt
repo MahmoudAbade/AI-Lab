@@ -1,0 +1,4 @@
+Problem: st70
+Path 1 length: 2602.49
+Path 2 length: 2589.78
+Longer path length (objective): 2602.49

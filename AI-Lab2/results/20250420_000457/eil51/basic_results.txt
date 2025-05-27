@@ -1,0 +1,4 @@
+Problem: eil51
+Path 1 length: 1107.94
+Path 2 length: 1104.14
+Longer path length (objective): 1107.94
